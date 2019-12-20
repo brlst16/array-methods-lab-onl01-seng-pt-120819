@@ -13,7 +13,7 @@ def using_include(array, element)
   # using_include.include?("Tardis")
   
   array.include?("element")
-  array.include?("Tardis")
+  array.include?("element")
   
 end
 
