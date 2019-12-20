@@ -12,7 +12,7 @@ def using_include(array, element)
   # using_include.include?("wow")
   # using_include.include?("Tardis")
   
-  array.include(element1)
+  array.include?(element1)
   
 end
 
