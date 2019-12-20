@@ -6,8 +6,8 @@ def using_include(array, element)
   # element1 = "wow"
   # element2 = "Tardis"
   
-  array.include?("wow")
-  array.include?("Tardis")
+  array.include("wow")
+  array.include("Tardis")
   
   # using_include.include?("wow")
   # using_include.include?("Tardis")
